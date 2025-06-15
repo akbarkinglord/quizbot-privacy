@@ -1,0 +1,2 @@
+# quizbot-privacy
+RIVALS
